@@ -1,8 +1,4 @@
 # The Digital Detective
-
-### Explore Your Computer 
-### Building a Mini System Report
-
 ## About This Project
 
 The Digital Detective is an independent learning assignment focused on understanding how computers work, exploring operating systems, practising command-line operations, learning number systems, and understanding computer networks.
@@ -47,3 +43,10 @@ Each mission will be documented, committed, and pushed separately to maintain a 
 
 **Project:** The Digital Detective  
 **Repository:** digital-detective-8549
+
+
+# My Learning
+
+- I learned how to use Terminal commands to navigate directories and manage files.
+- I understood how an operating system manages processes, memory, files and permissions.
+- I learned how to use Python for basic programming and convert numbers between binary, decimal and hexadecimal.
