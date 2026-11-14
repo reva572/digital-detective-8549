@@ -55,21 +55,21 @@ Memory management-
 OS manages the computer's RAM. It allocates memory to running programs and frees it when programs no longer need it
 Example: When you open Google Chrome, the OS allocates RAM so Chrome can run. When you close it, that memory can be reused
 
-Device management
+Device management-
 OS manages hardware devices and helps applications communicate with them using device drivers
 Example: When you type on your keyboard, the OS receives the input and makes it available to the application you're using
 
-File management
+File management-
 OS manages how files and folders are created,stored,organised, accessed,renamed and deleted
 Example: When you create notes.txt, save it in a folder, or rename it, the OS manages those file operations
 
-User interface/shell
+User interface/shell-
 OS provides ways for users to interact with the computer. This can be through a Graphical User Interface (GUI) or a Command-Line Interface (CLI)
 Example:
 - GUI: Using Finder on your Mac to open folders and files.
 - CLI: Using Terminal commands such as pwd and ls to navigate and view files
 
-Security and permissions
+Security and permissions-
 OS protects files and computer resources by controlling who can access, read, modify or execute them.
 Example: 
 Your notes.txt file has permissions -rw-r--r-- . This means its owner can read and edit it, while other users have read-only access
