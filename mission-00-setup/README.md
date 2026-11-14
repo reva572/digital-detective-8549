@@ -94,4 +94,4 @@ The initial workspace commit was created and successfully pushed to the `main` b
 - [x] GitHub remote configured.
 - [x] Public GitHub repository created.
 - [x] Initial commit pushed successfully.
-- [ ] Mission 0 documentation committed and pushed.
+- [x] Mission 0 documentation committed and pushed
